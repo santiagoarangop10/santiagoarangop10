@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./images/banner-santiago.png" 
-     alt="Santiago Arango Pardo - Técnico Programador de Software" 
-     width="100%">
+<img src="images/banner-santiago.png" 
+  alt="Santiago Arango Pardo - Técnico Programador de Software"
+  width="100%">
 
 <br><br>
 
@@ -28,19 +28,19 @@ Actualmente estoy fortaleciendo mis conocimientos en **programación, arquitectu
 
 ## 🚀 Mis principales habilidades
 
-- 🐍 **Programación con Python**
-- 🌐 **Desarrollo web**
-- 💻 **HTML, CSS y JavaScript**
-- 🗄️ **Bases de datos MySQL**
-- 🧠 **Programación Orientada a Objetos**
-- 🔧 **Mantenimiento preventivo y correctivo de computadores**
-- 🌐 **Redes y telecomunicaciones**
-- 🖥️ **Sistemas operativos**
-- 🔀 **Git y GitHub**
-- 📋 **Metodología Scrum**
-- 🤝 **Trabajo en equipo**
-- 🧠 **Pensamiento lógico y resolución de problemas**
-- 📚 **Aprendizaje continuo**
+* 🐍 **Programación con Python**
+* 🌐 **Desarrollo web**
+* 💻 **HTML, CSS y JavaScript**
+* 🗄️ **Bases de datos MySQL**
+* 🧠 **Programación Orientada a Objetos**
+* 🔧 **Mantenimiento preventivo y correctivo de computadores**
+* 🌐 **Redes y telecomunicaciones**
+* 🖥️ **Sistemas operativos**
+* 🔀 **Git y GitHub**
+* 📋 **Metodología Scrum**
+* 🤝 **Trabajo en equipo**
+* 🧠 **Pensamiento lógico y resolución de problemas**
+* 📚 **Aprendizaje continuo**
 
 ---
 
@@ -50,8 +50,8 @@ Actualmente estoy fortaleciendo mis conocimientos en **programación, arquitectu
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js" 
-     alt="Python HTML CSS JavaScript">
+<img src="https://skillicons.dev/icons?i=python,html,css,js"
+  alt="Python, HTML, CSS y JavaScript">
 
 </p>
 
@@ -59,8 +59,8 @@ Actualmente estoy fortaleciendo mis conocimientos en **programación, arquitectu
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql" 
-     alt="MySQL">
+<img src="https://skillicons.dev/icons?i=mysql"
+  alt="MySQL">
 
 </p>
 
@@ -68,8 +68,8 @@ Actualmente estoy fortaleciendo mis conocimientos en **programación, arquitectu
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" 
-     alt="Git GitHub VS Code Linux">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"
+  alt="Git, GitHub, VS Code y Linux">
 
 </p>
 
@@ -77,17 +77,17 @@ Actualmente estoy fortaleciendo mis conocimientos en **programación, arquitectu
 
 ## 🎯 Áreas de conocimiento
 
-| Área | Conocimientos |
-|---|---|
-| 🐍 **Programación** | Python, JavaScript, POO |
-| 🌐 **Desarrollo Web** | HTML5, CSS3, JavaScript |
-| 🗄️ **Bases de Datos** | MySQL |
-| 🔧 **Soporte Técnico** | Mantenimiento preventivo y correctivo |
-| 🌐 **Redes** | Fundamentos de redes y telecomunicaciones |
-| 🖥️ **Sistemas** | Sistemas operativos y configuración |
-| 📋 **Metodologías** | Scrum |
-| 🔀 **Control de versiones** | Git y GitHub |
-| 🏗️ **Arquitectura** | Fundamentos de arquitectura de software |
+| Área                        | Conocimientos                             |
+| --------------------------- | ----------------------------------------- |
+| 🐍 **Programación**         | Python, JavaScript, POO                   |
+| 🌐 **Desarrollo Web**       | HTML5, CSS3, JavaScript                   |
+| 🗄️ **Bases de Datos**      | MySQL                                     |
+| 🔧 **Soporte Técnico**      | Mantenimiento preventivo y correctivo     |
+| 🌐 **Redes**                | Fundamentos de redes y telecomunicaciones |
+| 🖥️ **Sistemas**            | Sistemas operativos y configuración       |
+| 📋 **Metodologías**         | Scrum                                     |
+| 🔀 **Control de versiones** | Git y GitHub                              |
+| 🏗️ **Arquitectura**        | Fundamentos de arquitectura de software   |
 
 ---
 
@@ -107,20 +107,18 @@ Actualmente en formación.
 
 Formación enfocada en:
 
-- 💻 Programación de software
-- 🌐 Desarrollo de aplicaciones
-- 🗄️ Bases de datos
-- 🌐 Desarrollo web
-- 🖥️ Fundamentos de sistemas
-- 🧠 Solución de problemas mediante programación
+* 💻 Programación de software
+* 🌐 Desarrollo de aplicaciones
+* 🗄️ Bases de datos
+* 🌐 Desarrollo web
+* 🖥️ Fundamentos de sistemas
+* 🧠 Solución de problemas mediante programación
 
 ---
 
 ## 🚀 Proyectos
 
 He desarrollado y participado en diferentes proyectos académicos y personales relacionados con tecnología.
-
----
 
 ### 🌐 Desarrollo Web
 
@@ -148,12 +146,12 @@ Proyecto tecnológico enfocado en el **sector cafetero**.
 
 La solución busca ayudar a pequeños caficultores mediante herramientas tecnológicas para:
 
-- 🌱 Gestión de cultivos
-- 💧 Control de necesidades de agua
-- 🔔 Alertas
-- 👨‍🌾 Gestión de trabajadores
-- 📦 Control de insumos
-- 📊 Gestión de información
+* 🌱 Gestión de cultivos
+* 💧 Control de necesidades de agua
+* 🔔 Alertas
+* 👨‍🌾 Gestión de trabajadores
+* 📦 Control de insumos
+* 📊 Gestión de información
 
 ---
 
@@ -161,12 +159,12 @@ La solución busca ayudar a pequeños caficultores mediante herramientas tecnol�
 
 Desarrollo de propuestas tecnológicas para negocios, incluyendo:
 
-- 🌐 Páginas web
-- 🛒 Tiendas virtuales
-- 💻 Software empresarial
-- 📊 Sistemas de gestión
-- 🗄️ Bases de datos
-- 🤖 Integración de herramientas de inteligencia artificial
+* 🌐 Páginas web
+* 🛒 Tiendas virtuales
+* 💻 Software empresarial
+* 📊 Sistemas de gestión
+* 🗄️ Bases de datos
+* 🤖 Integración de herramientas de inteligencia artificial
 
 ---
 
@@ -181,3 +179,41 @@ Desarrollo de propuestas tecnológicas para negocios, incluyendo:
 🌐 Redes y Telecomunicaciones
 🔀 Git y GitHub
 📋 Scrum
+```
+
+---
+
+## 💡 Mi objetivo
+
+Continuar desarrollando mis habilidades como **programador y futuro Ingeniero de Sistemas**, adquiriendo experiencia en proyectos reales y creando soluciones tecnológicas que aporten valor a las personas y empresas.
+
+Me interesa seguir creciendo profesionalmente en áreas como:
+
+* 💻 Desarrollo de software
+* 🌐 Desarrollo web
+* 🤖 Inteligencia artificial
+* 🗄️ Bases de datos
+* 🌐 Redes y telecomunicaciones
+* ☁️ Tecnologías en la nube
+* 🏗️ Arquitectura de software
+
+---
+
+## 📈 En constante crecimiento
+
+```text
+Aprender → Practicar → Crear → Mejorar → Innovar
+```
+
+---
+
+<div align="center">
+
+### 🚀 Gracias por visitar mi perfil
+
+**Santiago Arango Pardo**
+
+💻 Técnico Programador de Software
+🎓 Estudiante de Ingeniería de Sistemas y Telecomunicaciones
+
+</div>
