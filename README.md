@@ -22,13 +22,9 @@ Me apasiona el mundo de la tecnología, especialmente el **desarrollo de softwar
 
 Me considero una persona **responsable, comprometida, proactiva y con muchas ganas de aprender**. Me gusta enfrentar nuevos retos, encontrar soluciones a los problemas y trabajar en equipo para desarrollar proyectos útiles e innovadores.
 
-Actualmente estoy fortaleciendo mis conocimientos en programación, arquitectura de software y desarrollo de soluciones tecnológicas.
+Actualmente estoy fortaleciendo mis conocimientos en **programación, arquitectura de software y desarrollo de soluciones tecnológicas**.
 
 ---
-
-https://github.com/santiagoarangop10
-https://www.linken.com/in/santiago-arango-206450384/?isSelfProfile=true
-
 
 ## 🚀 Mis principales habilidades
 
@@ -54,7 +50,8 @@ https://www.linken.com/in/santiago-arango-206450384/?isSelfProfile=true
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js" 
+     alt="Python HTML CSS JavaScript">
 
 </p>
 
@@ -62,7 +59,8 @@ https://www.linken.com/in/santiago-arango-206450384/?isSelfProfile=true
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" 
+     alt="MySQL">
 
 </p>
 
@@ -70,7 +68,8 @@ https://www.linken.com/in/santiago-arango-206450384/?isSelfProfile=true
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" 
+     alt="Git GitHub VS Code Linux">
 
 </p>
 
@@ -80,15 +79,15 @@ https://www.linken.com/in/santiago-arango-206450384/?isSelfProfile=true
 
 | Área | Conocimientos |
 |---|---|
-| 🐍 Programación | Python, JavaScript, POO |
-| 🌐 Desarrollo Web | HTML5, CSS3, JavaScript |
-| 🗄️ Bases de Datos | MySQL |
-| 🔧 Soporte Técnico | Mantenimiento preventivo y correctivo |
-| 🌐 Redes | Fundamentos de redes y telecomunicaciones |
-| 🖥️ Sistemas | Sistemas operativos y configuración |
-| 📋 Metodologías | Scrum |
-| 🔀 Control de versiones | Git y GitHub |
-| 🏗️ Arquitectura | Fundamentos de arquitectura de software |
+| 🐍 **Programación** | Python, JavaScript, POO |
+| 🌐 **Desarrollo Web** | HTML5, CSS3, JavaScript |
+| 🗄️ **Bases de Datos** | MySQL |
+| 🔧 **Soporte Técnico** | Mantenimiento preventivo y correctivo |
+| 🌐 **Redes** | Fundamentos de redes y telecomunicaciones |
+| 🖥️ **Sistemas** | Sistemas operativos y configuración |
+| 📋 **Metodologías** | Scrum |
+| 🔀 **Control de versiones** | Git y GitHub |
+| 🏗️ **Arquitectura** | Fundamentos de arquitectura de software |
 
 ---
 
@@ -108,18 +107,20 @@ Actualmente en formación.
 
 Formación enfocada en:
 
-- Programación de software
-- Desarrollo de aplicaciones
-- Bases de datos
-- Desarrollo web
-- Fundamentos de sistemas
-- Solución de problemas mediante programación
+- 💻 Programación de software
+- 🌐 Desarrollo de aplicaciones
+- 🗄️ Bases de datos
+- 🌐 Desarrollo web
+- 🖥️ Fundamentos de sistemas
+- 🧠 Solución de problemas mediante programación
 
 ---
 
 ## 🚀 Proyectos
 
 He desarrollado y participado en diferentes proyectos académicos y personales relacionados con tecnología.
+
+---
 
 ### 🌐 Desarrollo Web
 
@@ -143,7 +144,7 @@ Desarrollo de aplicaciones y sistemas orientados a solucionar necesidades espec�
 
 ### ☕ Proyecto AGROIA
 
-Proyecto tecnológico enfocado en el sector cafetero.
+Proyecto tecnológico enfocado en el **sector cafetero**.
 
 La solución busca ayudar a pequeños caficultores mediante herramientas tecnológicas para:
 
